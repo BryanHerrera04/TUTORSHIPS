@@ -1,0 +1,8 @@
+//traducir codigo
+
+{
+    "presets": [
+        //Moderno antiguo
+        "@babel/preset-env"
+    ]
+}
